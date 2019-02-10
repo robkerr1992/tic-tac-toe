@@ -1,3 +1,7 @@
+Completed Tic Tac Toe game from the tutorial located on the react website
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
